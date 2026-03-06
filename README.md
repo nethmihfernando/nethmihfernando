@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋 I'm Nethmi Himashi Fernando Pulle</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Nethmi%20Himashi&fontAlign=50&fontAlignY=50&fontSize=42&animation=fadeIn&shadow=true"/>
+</p>
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00FFCC&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%7C+Web+Enthusiast" alt="Typing SVG" />
 </h1>
