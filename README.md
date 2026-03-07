@@ -55,9 +55,7 @@ Creating modern, scalable, and user-friendly web applications using the latest f
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=nethmihfernando&show_icons=true&theme=tokyonight" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nethmihfernando&theme=tokyonight" />
+<img src="https://streak-stats.demolab.com?user=nethmihfernando&theme=tokyonight&hide_border=true"/>
 
 </p>
 
