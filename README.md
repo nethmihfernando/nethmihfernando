@@ -5,9 +5,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00FFCC&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%7C+Web+Enthusiast" alt="Typing SVG" />
 </h1>
 
-<p align="center">
+<h4 align="center">
 Developing modern, scalable, and user-friendly web applications using the latest frontend and backend technologies.
-</p>
+</h4>
 
 ---
 
