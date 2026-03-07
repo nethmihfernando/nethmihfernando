@@ -64,16 +64,8 @@ Developing modern, scalable, and user-friendly web applications using the latest
 
 ## 📫 Connect With Me
 
-<p align="left">
-
-<a href="nethmihimashi108@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" width="40"/>
-</a>
-
-<a href="https://www.linkedin.com/in/nethmi-himashi-fernando-pulle" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40"/>
-</a>
-
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nethmihimashi108@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nethmi-himashi-fernando-pulle)
 
 ---
 
