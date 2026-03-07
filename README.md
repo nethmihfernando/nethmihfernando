@@ -13,9 +13,10 @@ Creating modern, scalable, and user-friendly web applications using the latest f
 
 ## 👩‍💻 About Me
 
-🌱 Passionate about **Full Stack Web Development**  
-💡 Interested in building scalable web applications and modern UI systems  
-🚀 Currently improving **JavaScript, backend APIs, and full-stack architecture**
+💻 Full Stack Developer passionate about building modern, scalable web applications.  
+🌐 Experienced in developing both frontend interfaces and backend systems.  
+⚡ Enjoy creating responsive UI, efficient APIs, and reliable full-stack solutions.  
+🚀 Continuously improving my skills in backend development, and system architecture.
 
 ---
 
