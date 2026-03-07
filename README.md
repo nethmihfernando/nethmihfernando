@@ -6,7 +6,7 @@
 </h1>
 
 <p align="center">
-Creating modern, scalable, and user-friendly web applications using the latest frontend and backend technologies.
+Developing modern, scalable, and user-friendly web applications using the latest frontend and backend technologies.
 </p>
 
 ---
