@@ -17,7 +17,7 @@ Developing modern, scalable, and user-friendly web applications using the latest
 💻 Full Stack Developer passionate about building modern, scalable web applications.  
 🌐 Experienced in developing both frontend interfaces and backend systems.  
 ⚡ Enjoy creating responsive UI, efficient APIs, and reliable full-stack solutions.  
-🚀 Continuously improving my skills in backend development, and system architecture.
+🚀 Continuously improving my skills in backend development, and system architecture.</br>
 📫 Reach me at: **nethmihimashi108@gmail.com**
 
 
