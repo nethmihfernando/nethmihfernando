@@ -11,12 +11,15 @@ Developing modern, scalable, and user-friendly web applications using the latest
 
 ---
 
+
 ## 👩‍💻 About Me
 
 💻 Full Stack Developer passionate about building modern, scalable web applications.  
 🌐 Experienced in developing both frontend interfaces and backend systems.  
 ⚡ Enjoy creating responsive UI, efficient APIs, and reliable full-stack solutions.  
 🚀 Continuously improving my skills in backend development, and system architecture.
+📫 Reach me at: **nethmihimashi108@gmail.com**
+
 
 ---
 
@@ -64,7 +67,6 @@ Developing modern, scalable, and user-friendly web applications using the latest
 
 ## 📫 Connect With Me
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nethmihimashi108@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nethmi-himashi-fernando-pulle)
 
 ---
