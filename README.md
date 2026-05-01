@@ -65,6 +65,15 @@ Developing modern, scalable, and user-friendly web applications using the latest
 
 ---
 
+## My Contribution Graph
+<div align="center">
+
+[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=nethmihfernando&theme=tokyo-night&bg_color=0a0a0a&color=00f7ff&line=00f7ff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
 ## 📫 Connect With Me
 
 <p align="left">
