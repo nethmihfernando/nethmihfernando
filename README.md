@@ -77,19 +77,18 @@ Developing modern, scalable, and user-friendly web applications using the latest
 ## 📫 Connect With Me
 
 <p align="left">
-
-<a href="https://www.linkedin.com/in/nethmi-himashi-fernando-pulle">
-  <img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40"/>
-</a>
-
-<a href="https://instagram.com/__himafdo__">
-  <img src="https://cdn.simpleicons.org/instagram/E4405F" width="40" height="40"/>
-</a>
-
-<a href="https://facebook.com/himashi.fdo.2005">
-  <img src="https://cdn.simpleicons.org/facebook/1877F2" width="40" height="40"/>
-</a>
-
+  <a href="https://www.linkedin.com/in/nethmi-himashi-fernando-pulle" target="blank">
+    <img align="center" src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://www.instagram.com/__himafdo__/" target="blank">
+    <img align="center" src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+  <a href="mailto:nethmihimashi108@gmail.com" target="blank">
+    <img align="center" src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+  <a href="https://www.facebook.com/himashi.fdo.2005/" target="blank">
+    <img align="center" src="https://skillicons.dev/icons?i=facebook" />
+  </a>
 </p>
 
 ---
