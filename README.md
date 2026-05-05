@@ -86,9 +86,6 @@ Developing modern, scalable, and user-friendly web applications using the latest
   <a href="mailto:nethmihimashi108@gmail.com" target="blank">
     <img align="center" src="https://skillicons.dev/icons?i=gmail" />
   </a>
-  <a href="https://www.facebook.com/himashi.fdo.2005/" target="blank">
-    <img align="center" src="https://skillicons.dev/icons?i=facebook" />
-  </a>
 </p>
 
 ---
